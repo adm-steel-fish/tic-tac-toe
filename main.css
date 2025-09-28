@@ -32,6 +32,21 @@
   cursor: pointer;
 }
 
+#homeButton {
+  position: absolute;
+  right: 5em;
+  top: 8em;
+  background: #000;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 700;
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  width: 100px;
+  cursor: pointer;
+}
+
 .board {
   margin: 4em auto;
   width: 25em;
